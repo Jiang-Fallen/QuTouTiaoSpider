@@ -16,4 +16,4 @@
 ```
 4、结果示例：
 ```
-![aaa](https://github.com/Jiang-Fallen/source/blob/master/image/img_info_spider_02.jpg)
+![](https://github.com/Jiang-Fallen/source/blob/master/image/img_info_spider_02.png)
