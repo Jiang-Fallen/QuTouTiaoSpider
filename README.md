@@ -9,7 +9,7 @@
     2) settings中设置七牛云的认证信息，方便图片下载后转存
 ```
 ```
-3、执行：
+3、执行(二选一)：
     1) 打开entryPoint.py内相应注释，运行 entryPoint.py 即可
     2) cd 至爬虫项目根目录下执行 （ scrapy crawl 爬虫名称(如：QuTouTiao、Babite) ）
 ```
